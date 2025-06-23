@@ -191,6 +191,11 @@ const bottomLinks: NavItem[] = [
 
 const topMailLinks: NavItem[] = [
   {
+    name: "Assistant",
+    icon: SparklesIcon,
+    href: "/automation",
+  },
+  {
     name: "Inbox",
     icon: InboxIcon,
     href: "?type=inbox",
